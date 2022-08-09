@@ -1,4 +1,4 @@
 # express-jobly
-`createdb jobly`
-`npm i package.json`
-`nodemon server.js`
+1.`createdb jobly`
+2.`npm i package.json`
+3.`nodemon server.js`
